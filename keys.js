@@ -5,4 +5,5 @@ exports.spotify = {
   secret: process.env.SPOTIFY_SECRET
   // adding comment for Git practice purposes
   // adding second comment
+  // adding third comment
 };
